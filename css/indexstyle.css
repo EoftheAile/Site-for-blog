@@ -1,6 +1,46 @@
+.fontdiner-swanky-regular {
+  font-family: "Fontdiner Swanky", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.unkempt-regular {
+  font-family: "Unkempt", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.unkempt-bold {
+  font-family: "Unkempt", cursive;
+  font-weight: 700;
+  font-style: normal;
+}
+
+
 .parent {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    font-family: "Unkempt", cursive;
+    color: #d9d9d9;
 
 }
+
+.post-container {
+    display: flex;
+    flex-wrap: wrap;
+    font-family: "Fontdiner Swanky", serif;
+    color:rgb(113, 160, 247);
+
+}
+
+.post {
+    margin: 500px;
+    padding: 200px;
+}
+
+.footer {
+       
+}
+
+
